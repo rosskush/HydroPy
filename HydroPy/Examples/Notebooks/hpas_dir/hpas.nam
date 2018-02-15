@@ -1,0 +1,14 @@
+LIST 2 hpas.lst
+DIS  11 hpas.dis
+BAS6 13 hpas.bas
+UPW 14 hpas.upw
+RCH 15 hpas.rch
+RIV 16 hpas.riv
+DRN 18 hpas.drn 
+NWT 19 hpas.nwt
+OC 20 hpas.oc
+EVT 22 hpas.evt
+WEL 21 hpas.wel
+DATA 60 hpas.spf
+DATA(BINARY) 50 hpas.cbb
+DATA(BINARY) 30 hpas.hds

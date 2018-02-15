@@ -3,9 +3,11 @@
 LIST               2  Hubbertville_example.list
 DIS               11  Hubbertville_example.dis 
 BAS6              13  Hubbertville_example.bas 
-GHB               23  Hubbertville_example.ghb 
+CHD               24  Hubbertville_example.chd 
+RCH               19  Hubbertville_example.rch 
 OC                14  Hubbertville_example.oc 
 UPW               31  Hubbertville_example.upw 
 NWT               32  Hubbertville_example.nwt 
 WEL               20  Hubbertville_example.wel 
 DATA(BINARY)      51  Hubbertville_example.hds REPLACE
+DATA(BINARY)      53  Hubbertville_example.cbc REPLACE
